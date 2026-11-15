@@ -1,3 +1,5 @@
+> **Fork notice:** `advertising_id_v2` is a fork of [operando/advertising_id](https://github.com/operando/advertising_id) (Apache-2.0) that adds Swift Package Manager support for iOS. The Dart API is unchanged: replace the dependency and import `package:advertising_id_v2/advertising_id.dart`.
+
 [![pub package](https://img.shields.io/pub/v/advertising_id.svg)](https://pub.dartlang.org/packages/advertising_id)
 
 # advertising_id

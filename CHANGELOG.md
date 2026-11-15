@@ -1,3 +1,11 @@
+## 2.8.0
+
+* Fork of `advertising_id` 2.7.1, published as `advertising_id_v2`.
+* iOS: add Swift Package Manager support (`ios/advertising_id_v2/Package.swift`); CocoaPods still works.
+* iOS: the plugin is pure Swift (the Objective-C shim is removed), minimum iOS 13.0.
+* iOS: the privacy manifest file name had a trailing space, so it was never bundled; fixed.
+* Raise the SDK constraint to Dart >=3.0.0 and Flutter >=3.24.0.
+
 ## [2.7.1] 2024/09/06
 
 * Fix resource bundles
